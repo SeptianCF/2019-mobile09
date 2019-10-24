@@ -10,7 +10,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import id.ac.polinema.recyclerviewsangatsederhana.adapters.SuperHeroAdapter;
-import polinema.ac.id.recyclerviewsangatsederhana.models.SuperHero;
+import id.ac.polinema.recyclerviewsangatsederhana.models.SuperHero;
+
 
 public class MainActivity extends AppCompatActivity {
     RecyclerView rvSuperHero;

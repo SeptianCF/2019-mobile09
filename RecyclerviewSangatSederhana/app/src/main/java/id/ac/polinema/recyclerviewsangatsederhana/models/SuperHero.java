@@ -1,4 +1,4 @@
-package polinema.ac.id.recyclerviewsangatsederhana.models;
+package id.ac.polinema.recyclerviewsangatsederhana.models;
 
 public class SuperHero {
     public String heroName;
